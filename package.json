@@ -1,7 +1,8 @@
 {
-  "name": "javascript-data-structures",
+  "name": "javascript-datastructures-algorithms",
   "version": "1.0.0",
   "main": "index.js",
   "author": "thallesyam <thallesyam@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
